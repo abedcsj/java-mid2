@@ -12,7 +12,7 @@ public class CartMain {
 
         cart.minus(new Product("사과", 1000),3);
         cart.printAll();
-a
+
 
     }
 }
